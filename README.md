@@ -2,7 +2,7 @@
 ### Full Stack Developer | Business Analyst
 
 Welcome to my portfolio! I specialize in building data-driven applications and streamlining financial reporting.
-[Download my resume (PDF)]((https://raw.githubusercontent.com/richik500/richik500.github.io/main/resume/Dipayan%20Saha%20-%20Resume.pd))
+[Download my resume (PDF)](https://raw.githubusercontent.com/richik500/richik500.github.io/main/resume/Dipayan%20Saha%20-%20Resume.pdf)
 
 ---
 
