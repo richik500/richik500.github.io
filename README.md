@@ -6,57 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ---
 
-# Dipayan Saha
-### Full Stack Developer | Business Analyst
-
-Welcome to my portfolio! I specialize in building data-driven applications and streamlining financial reporting.
-
----
-
-## 🚀 Featured Projects
-
-### [SARIMAX_INT](https://github.com/richik500/sarimax_int_amrodd)
-Predictive Modeling: Built using Python based time-series models (SARIMAX) to forecast revenue of a company.
-
-### [NOVA-X](https://github.com/richik500/NOVA-X)
-Laptop Customizeable Parts Builder Website for Marketing Presentation.
-
-### [GHAR](https://github.com/richik500/ghar)
-Real Estate property buy/sell Website for MBA team building event.
-
-### [Helping Hand](https://github.com/richik500/helping-hand)
-Developed a humanitarian web platform using HTML/CSS and JavaScript to streamline government fund distribution and essential resource allocation for pandemic-affected communities.
-
-### [E-commerce Application](https://github.com/richik500/ecommerce-app)
-Engineered a full-stack web application using ReactJS and MongoDB, featuring secure Stripe API integration for streamlined payment processing and order management.
-
-### [MEDIQAS](https://github.com/richik500/mediqas)
-Built a JavaScript-based intelligent chatbot designed to bridge the patient-provider gap by providing automated, real-time medical query resolution and health guidance.
-
----
-
-## 🛠 Skills
-* **Full Stack:** ReactJS, Redux, MongoDB, HTML, CSS, JavaScript, Node.js, Python, C++, SQL, RESTful APIs, AWS, Git/GitHub, Agile, SDLC. 
-* **Finance:** Tally Prime, Business Analysis, Audit Compliance, M&A, Financial Forecasting
-* **Data:** R Programming, Power BI, Tableau, Advanced Excel (VBA/Macros), SPSS, Statistical Modeling.
-* **AI/ML:** Lang Chain, Lang Graph, Machine Learning, Orange
-
----
-
-## 🎨 Hobbies & Interests
-
-Outside of professional work, I am passionate about:
-
-* ⚽ **Football:** Both playing and following the strategic side of the game.
-* ♟️ **Chess:** Enjoying the analytical challenge and tactical planning.
-* 🎮 **Video Games:** Particularly interested in competitive play (CODM) and immersive storytelling.
-* 🎵 **Music:** Exploring different genres and using it as a creative backdrop for my work.
-* 💻 **Coding:** Building side projects and exploring new tech stacks beyond the classroom.
-
-[Contact Me](mailto:your-email@example.com) | [LinkedIn](your-linkedin-url)
-
----
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
