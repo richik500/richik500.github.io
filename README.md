@@ -1,7 +1,3 @@
-## Welcome to my GitHub Page
-
----
-
 # Dipayan Saha
 ### Full Stack Developer | Business Analyst
 
