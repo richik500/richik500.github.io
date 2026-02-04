@@ -1,11 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/richik500/richik500.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
----
-
 # Dipayan Saha
 ### Full Stack Developer | Business Analyst
 
@@ -68,7 +60,15 @@ Outside of professional work, I am passionate about:
 * 🎵 **Music:** Exploring different genres and using it as a creative backdrop for my work.
 * 💻 **Coding:** Building side projects and exploring new tech stacks beyond the classroom.
 
-[Contact Me](mailto:your-email@example.com) | [LinkedIn](your-linkedin-url)
+[Contact Me](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/dipayan-saha/)
+
+---
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/richik500/richik500.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ---
 
