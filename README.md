@@ -6,6 +6,72 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ---
 
+# Dipayan Saha
+### Full Stack Developer | Business Analyst
+
+Welcome to my portfolio! I specialize in building data-driven applications and streamlining financial reporting.
+
+---
+
+## 🚀 Featured Projects
+
+### [AI-Driven-Predictive-Maintenance-for-Centrifugal-Systems](https://github.com/richik500/AI-Driven-Predictive-Maintenance-for-Centrifugal-Systems)
+Developed a predictive maintenance system using Artificial Neural Networks and sensor data (AQ, VOC, Temperature) to forecast equipment failure with 94.18% accuracy, outperforming KNN and Decision Tree models.
+
+### [Automobile-Market-Valuation-Engine](https://github.com/richik500/Automobile-Market-Valuation-Engine)
+Engineered a Linear Regression predictive pipeline in Python using PCA to reduce 26 features to 3 components, achieving a standardized R² of 0.88 and automating data cleaning through KNN Imputation for missing values.
+
+### [Financial-Performance-Expense-Analytics-Dashboard-BI-](https://github.com/richik500/Financial-Performance-Expense-Analytics-Dashboard-BI-)
+Developed an interactive Power BI dashboard utilizing DAX and advanced data modeling to analyze P&L statements, identifying a 15% variance in operational expenses and delivering actionable insights that reduced reporting turnaround time by 30%.
+
+### [Strategic-Retail-Intelligence-Profitability-Dashboard](https://github.com/richik500/Strategic-Retail-Intelligence-Profitability-Dashboard)
+Engineered a Tableau business intelligence solution to segment 5,000+ customers by Lifetime Value (CLV), identifying a 15% opportunity gap in cross-selling office furniture to high-value technology segments.
+
+### [SARIMAX_INT](https://github.com/richik500/sarimax_int_amrodd)
+Predictive Modeling: Built using Python based time-series models (SARIMAX) to forecast revenue of a company.
+
+### [NOVA-X](https://github.com/richik500/NOVA-X)
+Laptop Customizeable Parts Builder Website for Marketing Management.
+
+### [GHAR](https://github.com/richik500/ghar)
+Real Estate property buy/sell Website for MBA team building event.
+
+### [Helping Hand](https://github.com/richik500/HelpingHand-MicrosoftQuarantineHackfest)
+Developed a humanitarian web platform using HTML/CSS and JavaScript to streamline government fund distribution and essential resource allocation for pandemic-affected communities.
+
+### [E-commerce Application](https://github.com/richik500/ecommerce-app)
+Engineered a full-stack web application using ReactJS and MongoDB, featuring secure Stripe API integration for streamlined payment processing and order management.
+
+### [MEDIQAS](https://github.com/richik500/mediqas)
+Built a JavaScript-based intelligent chatbot designed to bridge the patient-provider gap by providing automated, real-time medical query resolution and health guidance.
+
+### [Bajaj-Finserv-Health-Ltd](https://github.com/richik500/Bajaj-Finserv-Health-Ltd)
+Built a website to calculate Rafale flight path and display it on a map.
+
+---
+
+## 🛠 Skills
+* **Full Stack:** ReactJS, Redux, MongoDB, HTML, CSS, JavaScript, Node.js, Python, C++, SQL, RESTful APIs, AWS, Git/GitHub, Agile, SDLC. 
+* **Finance:** Tally Prime, Business Analysis, Audit Compliance, M&A, Financial Forecasting
+* **Data:** R Programming, Power BI, Tableau, Advanced Excel (VBA/Macros), SPSS, Statistical Modeling.
+* **AI/ML:** Lang Chain, Lang Graph, Machine Learning, Orange
+
+---
+
+## 🎨 Hobbies & Interests
+
+Outside of professional work, I am passionate about:
+
+* ⚽ **Football:** Both playing and following the strategic side of the game.
+* ♟️ **Chess:** Enjoying the analytical challenge and tactical planning.
+* 🎮 **Video Games:** Particularly interested in competitive play (CODM) and immersive storytelling.
+* 🎵 **Music:** Exploring different genres and using it as a creative backdrop for my work.
+* 💻 **Coding:** Building side projects and exploring new tech stacks beyond the classroom.
+
+[Contact Me](mailto:your-email@example.com) | [LinkedIn](your-linkedin-url)
+
+---
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
