@@ -9,6 +9,9 @@ Welcome to my portfolio! I specialize in building data-driven applications and s
 
 ## 🚀 Featured Projects
 
+### [Contract-Management-Platform](https://github.com/richik500/Contract-Management-Platform)
+Developed an enterprise-grade MERN stack application designed to manage the end-to-end lifecycle of legal documents. It features a dynamic blueprint engine, a strictly enforced state-machine workflow, and full containerization for professional deployment.
+
 ### [AI-Driven-Predictive-Maintenance-for-Centrifugal-Systems](https://github.com/richik500/AI-Driven-Predictive-Maintenance-for-Centrifugal-Systems)
 Developed a predictive maintenance system using Artificial Neural Networks and sensor data (AQ, VOC, Temperature) to forecast equipment failure with 94.18% accuracy, outperforming KNN and Decision Tree models.
 
