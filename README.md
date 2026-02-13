@@ -9,6 +9,9 @@ Welcome to my portfolio! I specialize in building data-driven applications and s
 
 ## 🚀 Featured Projects
 
+### [IPO-Performance-Analyzer](https://github.com/richik500/IPO-Performance-Analyzer)
+Automated Python tool to map NSE/BSE IPOs to Yahoo Finance tickers and extract 36-month post-listing performance data (T_1 to T_37) for financial analysis.
+
 ### [Contract-Management-Platform](https://github.com/richik500/Contract-Management-Platform)
 Developed an enterprise-grade MERN stack application designed to manage the end-to-end lifecycle of legal documents. It features a dynamic blueprint engine, a strictly enforced state-machine workflow, and full containerization for professional deployment.
 
